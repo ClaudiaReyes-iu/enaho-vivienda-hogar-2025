@@ -3,7 +3,7 @@
 Diseño, normalización y explotación en **SQL Server** de la base de datos del módulo **Vivienda y Hogar** de la Encuesta Nacional de Hogares (ENAHO) 2025 del INEI, con un **dashboard interactivo en Power BI** construido sobre esa base ya normalizada.
 
 **Autora:** Sanchez Reyes Claudia Aracely
-**Docente:** Dr. Asnate Salazar Edwin Johny
+
 **Universidad Nacional "Santiago Antúnez de Mayolo"** — Escuela Profesional de Estadística e Informática — Huaraz, Perú, 2025
 
 ---
